@@ -1,0 +1,15 @@
+ctf_white - TDM/CTF (jCTF mod)
+by [POD]ILL bot (0)
+site: http://www.podillbot.3141.ru/
+mail: ILL-JAH@yandex.ru
+
+Map created 08.2014
+specially for "RAINBOW" fast mapping contest
+organized by largest russian-speaking
+Half-life and Counter-strike
+dev community "CS-MAPPING.COM.UA".
+				  
+Info for server admins:
+File ctf_white.ctf contains flag positions
+for CS1.6 "jCTF" server-side mod.
+Without this mod file ctf_white.ctf does nothing.

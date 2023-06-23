@@ -1,0 +1,15 @@
+// map "ctf_white" by [POD]ILL bot (0) © 08.2014
+// overview description file for ctf_white.bsp
+
+global 
+{
+	ZOOM	1.84
+	ORIGIN	0 	0	-255
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/ctf_white.bmp"
+	HEIGHT	-255
+}

@@ -1,0 +1,15 @@
+// map "ctf_city_day" by [POD]ILL bot (0) © 11.2016
+// overview description file for ctf_city_day.bsp
+
+global 
+{
+	ZOOM	1.25
+	ORIGIN	-96 -96	-65
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/ctf_city_day.bmp"
+	HEIGHT	-65
+}

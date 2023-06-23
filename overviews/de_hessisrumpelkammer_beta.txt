@@ -1,0 +1,15 @@
+global 
+{
+	ZOOM	1.82
+	ORIGIN	354.94	427.56	752
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_hessisrumpelkammer_beta.bmp"
+	HEIGHT	-97
+}
+
+
+Overview: Zoom 1.82, Map Origin 354.94,	427.56,	752.00), Z Min 1601.00, Z Max -97.00, Rotated 0 

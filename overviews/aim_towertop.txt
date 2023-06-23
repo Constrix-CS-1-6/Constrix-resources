@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	3.37
+	ORIGIN	2432	2432	-5281
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/aim_towertop.bmp"
+	HEIGHT	-5281
+}

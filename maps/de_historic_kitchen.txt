@@ -1,0 +1,17 @@
+// Historic Kitchen //
+
+- Bomb/Defuse -
+
+Map by Koopa 
+
+Map created specially to the Rats Style! Contest. This is the first 
+version of the map (there are a few bugs here and there). It's a rats 
+map based on a real place, TT's objective is plant the C4 on the 
+microwave or on the table, CT's prevent it. I don't put some more
+details because I have not time to did it. 
+
+Enjoy it!
+
+28/06/2013
+
+(Press fire to continue)
