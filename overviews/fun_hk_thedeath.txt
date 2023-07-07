@@ -1,0 +1,14 @@
+// overview description file for fun_hk_thedeath.bsp
+
+global 
+{
+	ZOOM	1.68
+	ORIGIN	1536 	-1056	0
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/fun_hk_thedeath.bmp"
+	HEIGHT	-1057
+}
