@@ -4,8 +4,8 @@
 
 
 
-CT'ler ve T'ler ayný basede dogarlar ve hic cephanesi silahi yada bicagi yoktur.
-Orta zorlukta kisa bir kz yada bhop engelleri vardýr.Bu engelleri ilk bitiren kznin sonundaki 5 map seçenegi vardir.Burdan birini secip butona basar ve o butona basan kisinin basildigi mapta oynanir.Ancak kz de iyi olamayanlar olabilir, bu yuzden onlar icin altarnatif bir buton konulmuþtur.O butona basarsiniz 2,50 dakka sonra kosedeki pervane calisir ve sizi kz sonunda itikler.
+CT'ler ve T'ler aynï¿½ basede dogarlar ve hic cephanesi silahi yada bicagi yoktur.
+Orta zorlukta kisa bir kz yada bhop engelleri vardï¿½r.Bu engelleri ilk bitiren kznin sonundaki 5 map seï¿½enegi vardir.Burdan birini secip butona basar ve o butona basan kisinin basildigi mapta oynanir.Ancak kz de iyi olamayanlar olabilir, bu yuzden onlar icin altarnatif bir buton konulmuï¿½tur.O butona basarsiniz 2,50 dakka sonra kosedeki pervane calisir ve sizi kz sonunda itikler.
 
 fy,he,awp,m3,ka ve kz/bhop modlarini icine alan bi maptir :)
 

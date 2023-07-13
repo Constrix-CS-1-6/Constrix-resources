@@ -1,0 +1,15 @@
+maps/cxx_bjgo_v1.bsp
+maps/cxx_bjgo_v1.res
+maps/cxx_bjgo_v1.txt
+sound/ambience/metal_break.wav
+sound/ambience/arcticwind.wav
+sound/ambience/car_ambulance.wav
+sound/ambience/city_sirenby.wav
+sound/ambience/car3.wav
+sound/ambience/car_impact.wav
+sound/ambience/barrel_crash.wav
+sound/ambience/GUY_FALLING_ONGATE.wav
+sound/ambience/electric_damage.wav
+sound/ambience/dog1.wav
+sound/cxx/cxxdie.wav
+sound/cxx/tokyodrift.wav

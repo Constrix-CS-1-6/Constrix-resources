@@ -10,12 +10,12 @@ Tunngle account: pepaserver
 
 ----------------------------------------------------------------------
 
-Español: Gracias por descargar el mapa
+Espaï¿½ol: Gracias por descargar el mapa
 
 Pon todos los archivos en la carpeta: "Counter-Strike 1.6\cstrike"
 
 Pack por quemeaspen (PEPASERVER en GameBanana)
 
-Visita: pepaserver.tk o pepaserver.blogspot.com para más cosas
+Visita: pepaserver.tk o pepaserver.blogspot.com para mï¿½s cosas
 
 Cuenta de Tunngle: pepaserver
