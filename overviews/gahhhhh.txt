@@ -1,3 +1,5 @@
+
+
 global
 {
 	ZOOM	1.32
@@ -10,3 +12,4 @@ layer
 	IMAGE "overviews/gahhhhh.tga"
 	HEIGHT	-1441
 }
+
